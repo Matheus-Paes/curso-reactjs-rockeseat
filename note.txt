@@ -1,0 +1,10 @@
+Arquivos deletados:
+App.css
+App.test.js
+index.css
+logo.svg
+
+Obs: Quando criarmos um componente utilizando FUNCTION ao inves de CLASS, o componente é um STATELESS COMPONENT.
+
+Sempre que tivermos uma variavel no estado, o metodo render vai ficar escutando as alteraçoes da variavel e sempre que alguma variavel do estado for alterada o metodo render executa de novo trazendo as alterações em tela.
+
